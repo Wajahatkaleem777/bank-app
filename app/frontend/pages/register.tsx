@@ -93,7 +93,7 @@ export default function Register() {
               name="username"
               value={username}
               onChange={handleChange}
-              placeholder="Nome de usuário"
+              placeholder="enter the username"
               onFocus={() => handleFocus('username')}
               onBlur={() => handleFocus('')}
             />
