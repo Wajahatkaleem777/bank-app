@@ -77,7 +77,7 @@ export default function Register() {
     <div className={styles.page}>
       <Head>
         <title>DW.CASH - Cadastro</title>
-        <meta name="description" content="Projeto fullstack de carteira digital" />
+        <meta name="description" content="full stack bank application" />
         <link rel="icon" href="/favicon.png" />
       </Head>
 
